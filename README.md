@@ -2,7 +2,7 @@
 
 1. How to build
 
-`docker build -t tldr` .
+`docker build -t tldr .`
 
 2. How to run
 
